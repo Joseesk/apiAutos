@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Model": "Yaris Sport",
+        "Brand": "Toyota",
+        "Year": 2010
+    },
+    {
+        "Id": 2,
+        "Model": "F-150",
+        "Brand": "Ford",
+        "Year": 2017
+    },
+    {
+        "Id": 3,
+        "Model": "Silverao",
+        "Brand": "Chevrolet",
+        "Year": 2015
+    },
+    {
+        "Id": 4,
+        "Model": "CX-5",
+        "Brand": "Mazda",
+        "Year": 2015
+    }
+]
